@@ -11,4 +11,14 @@ export class AppComponent {
   PI = Math.PI;
   a:number = 0.234;
   salario:number = 1234.5;
+  ninja = {
+    nombre: "Naruto",
+    grado:"Hokage",
+    edad: 32,
+    lugar : {
+      pais:"fuego",
+      numero: 1,
+      aldea:"Konoha"
+    }
+  };
 }
