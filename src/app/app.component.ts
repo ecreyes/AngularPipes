@@ -29,4 +29,5 @@ export class AppComponent {
   fecha = new Date();
   nombre2 = "edUardo rEYes oyaRzo";
   video = "15ppjqoVItg";
+  activar:boolean = true;
 }
